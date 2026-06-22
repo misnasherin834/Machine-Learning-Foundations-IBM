@@ -109,7 +109,7 @@ Limitations of machine learning include data acquisition, data quality, time and
 
 # Machine Learning Methods and their use cases
 Machine learning enables machines to learn from past experiences, whether from existing data or by interacting with their environment
-#Supervised Learning
+# Supervised Learning
 Supervised learning is a machine learning training method in which a model is trained on a labeled data set to make predictions on new data.
 A label is a class or category assigned to a data point in supervised learning. Labels can be derived from data but are often applied by human labelers or annotators.
 Labeled data is raw data that is assigned labels to add context or meaning so that it can be used to train machine learning models. For example, numeric values might be labeled as zip codes or ages to provide context for model inputs and outputs.
@@ -121,16 +121,16 @@ Classification predicts which discrete category or class an input belongs to. Cl
 •
 In contrast, regression predicts a continuous value rather than sorting into a category. For example, imagine a model that predicts the price of a house based on its features, such as size, location, and number of bedrooms. This prediction is a regression prediction because the output, the price, is a continuous number, not a discrete class.
 
-#Unsupervised Learning
+# Unsupervised Learning
 Unsupervised learning is a machine learning training method in which a model is not provided with labeled data and must find patterns or structure in the data on its own. It involves training a model on unlabeled data.
 
-#Semi Supervised Learning
+# Semi Supervised Learning
 Semi-supervised learning is a machine learning training method that combines supervised and unsupervised learning, using both labeled and unlabeled data for training.
 Semi-supervised learning also plays a critical role in training and refining large language models (LLMs) such as IBM Granite.
 Semi-supervised learning algorithms can improve the performance of models trained on limited labeled data by using the unlabeled data to learn the underlying structure of the data distribution.
 A drawback of semi-supervised learning is the complexity of designing effective models and algorithms that seamlessly integrate labeled and unlabeled data.
 
-#Reinforcement Learning
+# Reinforcement Learning
 Reinforcement learning resembles supervised learning but is more advanced.
 Reinforcement learning is a machine learning training method in which an agent learns to make sequential decisions in an environment to maximize a reward signal. An agent is an algorithm or model that interacts with an environment to learn optimal actions or decisions to achieve a specific goal.
 
@@ -196,10 +196,10 @@ Reinforcement learning is used for decision making in dynamic environments.
 
 
 
-#Machine Learning Algorithms
+# Machine Learning Algorithms
 supervised algorithms: linear regression, logistic regression, and decision trees.
 
-#Linear Regression
+# Linear Regression
 Linear regression is a supervised learning algorithm that uses a line to represent the linear background trend of the data.
 linear regression takes data points with known inputs and target values and determines the best-fitting line, known as the regression line.
 Linear regression is primarily used for predictive modeling and analyzing the impact of input variables on the target variable. 

@@ -219,5 +219,5 @@ Mechanics might use decision trees to troubleshoot automobiles and machinery, sy
 •
 Businesses use them to assess growth opportunities, weighing factors such as market size and competition.
 
- Logistic Regression
+ # Logistic Regression
  Logistic regression is a supervised learning algorithm used for binary classification.

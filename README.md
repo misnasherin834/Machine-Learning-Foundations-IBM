@@ -203,4 +203,21 @@ supervised algorithms: linear regression, logistic regression, and decision tree
 Linear regression is a supervised learning algorithm that uses a line to represent the linear background trend of the data.
 linear regression takes data points with known inputs and target values and determines the best-fitting line, known as the regression line.
 Linear regression is primarily used for predictive modeling and analyzing the impact of input variables on the target variable. 
+# Decision Tree
+A decision tree is a supervised learning algorithm with a tree-like structure that includes a root node, branches, internal nodes, and leaf nodes.
+Each node in a decision tree represents a decision rule or test on a feature, directing data flow down different paths until reaching a final outcome or prediction at a leaf node.
+The root node starts the decision process.
 
+Branches connect internal (decision) nodes.
+
+Leaf nodes represent the final predicted class or value.
+In finance, they detect suspicious activities, such as a sudden overseas transaction after a local one, flagging potential fraud.
+
+•
+Mechanics might use decision trees to troubleshoot automobiles and machinery, systematically narrowing down to the root cause.
+
+•
+Businesses use them to assess growth opportunities, weighing factors such as market size and competition.
+
+ Logistic Regression
+ Logistic regression is a supervised learning algorithm used for binary classification.

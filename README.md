@@ -221,3 +221,9 @@ Businesses use them to assess growth opportunities, weighing factors such as mar
 
  # Logistic Regression
  Logistic regression is a supervised learning algorithm used for binary classification.
+It’s one of the foundational algorithms for predicting categorical or binary outcomes, such as “true or false”.
+Classifying an email as spam or not spam
+
+Classifying a patient as having a disease or not having it
+
+Classifying a user comment as positive or not
